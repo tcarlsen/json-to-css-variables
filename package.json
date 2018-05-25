@@ -1,0 +1,10 @@
+{
+  "name": "json-to-css-variables",
+  "version": "1.0.0",
+  "description": "converts json object into css variables",
+  "main": "index.js",
+  "repository": "https://github.com/tcarlsen/json-to-css-variables",
+  "author": "tcarlsen",
+  "license": "MIT",
+  "private": false
+}
